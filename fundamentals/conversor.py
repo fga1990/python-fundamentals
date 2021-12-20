@@ -7,4 +7,5 @@ dolares = round(dolares, 2)
 dolares = str(dolares)
 print("Tienes $" + dolares + " dólares")
 
-pesosMexicanos
+pesos_mexicanos = round((float(input("Cuántos pesos méxicanos tienes?: ")) / valor_dolar), 2)
+print("Tienes $" + str(pesos_mexicanos) + " dólares")
