@@ -42,4 +42,5 @@ not
 <=
 >=
 
-
+Ejecutar archivo .py desde consola
+python3 conversor.py
